@@ -1,3 +1,4 @@
+<p align="center"><img src="https://kshitijwagle.com.np/wp-content/uploads/2020/06/cropped-Kshitij-Logo.png">
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
 <h3 align="center">Programmer | Data Analyst | Designer| Passionate about Software Development, Data Management & Analytics</h3>
 

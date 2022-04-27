@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waglebabu&label=Profile%20views&color=0e75b6&style=flat" alt="waglebabu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wagle_babu" target="blank"><img src="https://img.shields.io/twitter/follow/wagle_babu?logo=twitter&style=for-the-badge" alt="wagle_babu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kwagle7" target="blank"><img src="https://img.shields.io/twitter/follow/wagle_babu?logo=twitter&style=for-the-badge" alt="wagle_babu" /></a> </p>
 
 - 🌱 I’m currently learning **Polymer.JS, Progress ABL & OOP, and Web Technologies**
 

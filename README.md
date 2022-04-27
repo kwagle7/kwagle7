@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
 <h3 align="center">Programmer | Data Analyst | Designer| Passionate about Software Development, Data Management & Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waglebabu&label=Profile%20views&color=0e75b6&style=flat" alt="waglebabu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwagle7&label=Profile%20views&color=0e75b6&style=flat" alt="kwagle7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kwagle7" target="blank"><img src="https://img.shields.io/twitter/follow/wagle_babu?logo=twitter&style=for-the-badge" alt="wagle_babu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kwagle7" target="blank"><img src="https://img.shields.io/twitter/follow/kwagle7?logo=twitter&style=for-the-badge" alt="kwagle7" /></a> </p>
 
 - 🌱 I’m currently learning **Polymer.JS, Progress ABL & OOP, and Web Technologies**
 

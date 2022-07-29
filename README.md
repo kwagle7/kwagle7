@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on www.knndata.com & www.ourntpa.com
 
-- 💬 Ask me about **LinkedIn Optimization, CV/Cover Letter, Data Analytics, Software Development, & Designing Ideas**
+- 💬 Ask me about **LinkedIn Optimization, Data Analytics, Software Development, & Designing**
 
 - 📫 Email me : **kshitij.wagle1@gmail.com**
 

@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/kwagle7" target="blank"><img src="https://img.shields.io/twitter/follow/kwagle7?logo=twitter&style=for-the-badge" alt="kwagle7" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Polymer.JS, Progress ABL, OOP, and Web Technologies**
+- 🌱 I’m currently learning **JavaScript, React, Polymer.JS, Progress ABL, OOP, and Web Technologies**
 
-- 📝 I regularly write articles on www.knndata.com & www.ourntpa.com
+- 📝 I regularly write articles on www.knndata.com & www.kwagle.com
 
 - 💬 Ask me about **LinkedIn Optimization, Data Analytics, Software Development, & Designing**
 

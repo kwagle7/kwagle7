@@ -1,6 +1,6 @@
 <p align="center"><img src="https://kshitijwagle.com.np/wp-content/uploads/2020/06/cropped-Kshitij-Logo.png">
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
-<h3 align="center">Programmer | Data Analyst | Designer| Passionate about Software Development, Data Management & Analytics</h3>
+<h3 align="center">Programmer | Data Engineer | Designer| Passionate about Software Development, Data Management & Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwagle7&label=Profile%20views&color=0e75b6&style=flat" alt="kwagle7" /> </p>
 

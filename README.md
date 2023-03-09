@@ -1,4 +1,4 @@
-<p align="center"><img src="https://kshitijwagle.com.np/wp-content/uploads/2020/06/cropped-Kshitij-Logo.png">
+<p align="center"><img src="https://media.licdn.com/dms/image/D5603AQE97cHhIopn2A/profile-displayphoto-shrink_400_400/0/1677907486625?e=1683763200&v=beta&t=b4-hDOT4MrJXRQLUs67dfX7P81stEIaEUanyV5pKUqM">
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
 <h3 align="center"> Data Engineer | Designer| Passionate about Big Data Management and Analytics</h3>
 

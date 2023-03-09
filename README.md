@@ -1,4 +1,4 @@
-<p align="center"><img src="" />
+<p align="center"><img src="#" />
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
 <h3 align="center"> Data Engineer | Designer| Passionate about Big Data Management and Analytics</h3>
 

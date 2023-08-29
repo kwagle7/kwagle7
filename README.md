@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kwagle7" target="blank"><img src="https://img.shields.io/twitter/follow/kwagle7?logo=twitter&style=for-the-badge" alt="kwagle7" /></a> </p>
 
-- 🌱 I’m currently learning **ETL and Data Warehousing, Machine Learning and AWS**
+- 🌱 I’m currently learning **ETL, Data Warehousing, Advanced PSQL, Power BI - Power queries and DAX, Machine Learning, and AWS**
 
 - 📝 I regularly write articles on www.knndata.com & www.kwagle.com
 

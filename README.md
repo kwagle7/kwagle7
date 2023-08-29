@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **ETL, Data Warehousing, Advanced PSQL, Power BI - Power queries and DAX, Machine Learning, and AWS**
 
-- 📝 I regularly write articles on www.knndata.com & www.kwagle.com
-
 - 💬 Ask me about **LinkedIn Optimization, Data Analytics, Software Development, & Designing**
 
-- 📫 Email me : **kshitij.wagle1@gmail.com**
+- 📫 Email me : **kshitij.wagle@hotmail.com**
 
 - ⚡ Fun fact **I love learning Aussie slangs.**
 

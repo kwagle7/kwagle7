@@ -1,6 +1,6 @@
 <p align="center"><img src="#" />
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
-<h3 align="center"> Data Engineer | Designer| Passionate about Big Data Management and Analytics</h3>
+<h3 align="center"> Data Engineer and Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwagle7&label=Profile%20views&color=0e75b6&style=flat" alt="kwagle7" /> </p>
 

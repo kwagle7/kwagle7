@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kwagle7" target="blank"><img src="https://img.shields.io/twitter/follow/kwagle7?logo=twitter&style=for-the-badge" alt="kwagle7" /></a> </p>
 
-- 🌱 I’m currently learning **ETL, Data Warehousing, and Advanced SQL**
+- 🌱 I’m currently learning **ETL Architecture, Data Warehousing, and Advanced SQL**
 - 🌱 Area of Interest: **Data Engineering/Warehousing and Data Driven ideas, Automation, Spotting Product Flaws, Digital Marketing Strategy Optimization, and Enhancing User Experiences**
 
 - 📫 Email me : **kshitij.wagle@hotmail.com**

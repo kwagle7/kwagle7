@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **ETL Architecture, Data Warehousing, and Advanced SQL**
 - 👨‍💻 Area of Interest 👨‍💻
   - **Data, AI and Automation**
-  - **Productivity (with expertise in documentation, designing, and note organization)**
+  - **Productivity (Documentation, designing, and note organization)**
   - **Design**
   - **Leadership**
   

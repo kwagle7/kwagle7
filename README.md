@@ -15,7 +15,7 @@
 
 ### About Me
 
-I'm a Data Engineer with 5+ years of experience in SQL, ETL, and Data Warehousing. I thrive on solving complex data problems and optimizing data pipelines. Currently, I'm diving deeper into ETL Architecture, Data Warehousing, and Advanced SQL.
+I'm a Data Engineer with 5+ years of experience in Data Engineering, BI Development, and Software Development. I thrive on solving complex data problems and optimizing data pipelines. Currently, I'm diving deeper into ETL Architecture, Data Warehousing, and Advanced SQL.
 
 ---
 

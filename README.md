@@ -55,7 +55,7 @@
 
 ### ✨ Fun Facts
 
-- ☕ I start my day with black coffee and SQL queries  
+- ☕ I start my day with coffee and SQL queries  
 - 🏸 I play badminton to unwind and stay sharp  
 - 🇦🇺 I’m low-key obsessed with learning Aussie slang (yeah nah, fair dinkum!)  
 - 🗻 I love adventure — hiking, mountaineering, or long scenic walks  

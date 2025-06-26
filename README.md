@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/bba02997-0fe1-4a67-ae9d-fa4ef62a57f7" alt="Kshitij Wagle" width="200" />
 </p>
 
-<h1 align="center">Hi there, I'm Kshitij(KJ) Wagle 👋</h1>
+<h1 align="center">Hi there, I'm Kshitij Wagle — but you can call me KJ 👋</h1>
 <h3 align="center">💻 Data Engineer | 🧠 Problem Solver | 📊 Data Storyteller</h3>
 
 <p align="center">
@@ -17,8 +17,10 @@
 
 ### 🚀 About Me
 
+- 🧑‍💻 You’ll often hear me go by **KJ** — short for Kshitij Wagle  
 - 🔭 I’m currently building data pipelines, dashboards, and ETL workflows  
 - 💡 Passionate about automation, clean data architecture & storytelling with BI  
+- 🧠 I approach problems with a product mindset — always looking to automate, improve, and scale systems  
 - 🎓 5+ years experience across Data Engineering, BI Dev, and Analytics  
 - 🛠️ Diving deeper into Azure, dbt, Data Vault 2.0 & distributed data systems  
 - ✍️ I write at [dataengjourney.com](https://dataengjourney.com)
@@ -51,9 +53,11 @@
 
 ### ✨ Fun Facts
 
-- ☕ I start my day with black coffee and SQL queries
-- 🧘 I love trekking in the Himalayas and writing tech blogs
-- 🧩 I enjoy debugging weird legacy systems more than I should
+- ☕ I start my day with coffee and SQL queries  
+- 🏸 I play badminton to unwind and stay sharp  
+- 🇦🇺 I’m low-key obsessed with learning Aussie slang (yeah nah, fair dinkum!)  
+- 🗻 I love adventure — whether it’s hiking, mountaineering, or long scenic walks  
+- ✍️ Writing tech blogs helps me reflect, share, and stay curious
 
 ---
 

@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/bba02997-0fe1-4a67-ae9d-fa4ef62a57f7" alt="Kshitij Wagle" width="200" />
 </p>
 
-<h1 align="center">Hi there, I'm Kshitij Wagle 👋</h1>
+<h1 align="center">Hi there, I'm Kshitij(KJ) Wagle 👋</h1>
 <h3 align="center">💻 Data Engineer | 🧠 Problem Solver | 📊 Data Storyteller</h3>
 
 <p align="center">

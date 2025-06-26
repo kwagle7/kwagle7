@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="#" alt="Profile Picture" />
+  <img src="https://github.com/user-attachments/assets/bba02997-0fe1-4a67-ae9d-fa4ef62a57f7" alt="Profile Picture" width="200" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Kshitij Wagle</h1>
 <h3 align="center">Data Engineer and Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwagle7&label=Profile%20views&color=0e75b6&style=flat" alt="kwagle7" />
-  <a href="https://linkedin.com/in/kwagle" target="blank">
+  <a href="https://linkedin.com/in/kwagle" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="kwagle" />
   </a>
 </p>
@@ -21,7 +22,7 @@ I'm a Data Engineer with 5+ years of experience in Data Engineering, BI Developm
 
 ### Technical Skills
 
-- **Languages**: SQL (T-SQL, PSQL), Python/PySpark, JavaScript
-- **Tools**: Talend, Power BI, Excel
-- **Databases**: Postgres, Snowflake, Databricks
+- **Languages**: SQL (T-SQL, PSQL), Python/PySpark, JavaScript  
+- **Tools**: Talend, Power BI, Excel  
+- **Databases**: Postgres, Snowflake, Databricks  
 - **Others**: Data Modelling, Data & Dashboard Migration, Airflow, dbt, Kafka, Scripting, Agile, Version Control, Data Governance practices

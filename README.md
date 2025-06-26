@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Namaste 🙏 & Hi 👋 I'm Kshitij — you can call me KJ</h1>
-<h3 align="center">💻 Data Engineer | 🧠 Problem Solver | 📊 Data Storyteller</h3>
+<h3 align="center">💻 Data Engineer & Analyst | 🧠 Problem Solver | 📊 Data Storyteller</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kwagle" target="_blank">

@@ -69,7 +69,7 @@
   <a href="https://linkedin.com/in/kwagle" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kshitij@email.com">
+  <a href="mailto:kshitij.wagle@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://dataengjourney.com">

@@ -1,7 +1,12 @@
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bba02997-0fe1-4a67-ae9d-fa4ef62a57f7" alt="Kshitij Wagle" width="200" />
+  <picture>
+    <source srcset="https://github.com/user-attachments/assets/bba02997-0fe1-4a67-ae9d-fa4ef62a57f7" />
+    <img src="https://github.com/user-attachments/assets/bba02997-0fe1-4a67-ae9d-fa4ef62a57f7" alt="Kshitij Wagle" width="200" />
+  </picture>
 </p>
+
+
 
 <h1 align="center">Namaste 🙏 & Hi 👋 I'm Kshitij — you can call me KJ</h1>
 <h3 align="center">💻 Data Engineer & Analyst | 🧠 Problem Solver | 📊 Data Storyteller</h3>

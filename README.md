@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Namaste 🙏 & Hi 👋 I'm Kshitij — you can call me KJ</h1>
+<h1 align="center">Namaste 🙏 im KJ</h1>
 <h3 align="center">💻 Data Engineer & Analyst | 🧠 Problem Solver | 📊 Data Storyteller</h3>
 
 <p align="center">
